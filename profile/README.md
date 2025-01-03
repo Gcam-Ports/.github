@@ -1,4 +1,4 @@
-# LMC 8.4 APK: Revolutionizing Smartphone Photography
+# LMC 8.4 Gcam Port: Revolutionizing Smartphone Photography
 
 In the ever-evolving world of smartphone photography, enthusiasts are constantly seeking tools that push the boundaries of what's possible with their device cameras. Enter **LMC 8.4**, a groundbreaking [Google Camera (GCam)](https://gcamport.org/) modification developed by Hasli, designed to bring advanced photographic capabilities to a wide range of Android devices.
 
